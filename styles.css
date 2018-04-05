@@ -29,5 +29,6 @@ header {
         margin-left: 0;
         padding-top: 0;
         color: black;
+        clear: both;
     }
 }
