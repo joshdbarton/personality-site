@@ -22,3 +22,12 @@ header {
     clear: both;
     border: solid 4px rosybrown;
 }
+
+@media (max-width: 881px) {
+    .title {
+       display: block;
+        margin-left: 0;
+        padding-top: 0;
+        color: black;
+    }
+}
