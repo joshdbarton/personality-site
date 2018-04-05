@@ -1,0 +1,24 @@
+* {
+    font-family: Verdana, Geneva, sans-serif;
+}
+
+header {
+    height: 350px;
+    background-color: rosybrown;
+}
+
+.header-image {
+    float: left;
+}
+.title {
+    float: left;
+    margin-left: 3em;
+    padding-top: 150px;
+    color: whitesmoke;
+}
+
+.list-card {
+    margin-top: 5px;
+    clear: both;
+    border: solid 4px rosybrown;
+}
